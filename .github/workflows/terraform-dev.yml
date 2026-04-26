@@ -9,7 +9,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: terraform/terraform/environments/dev
+        working-directory: working-directory: working-directory: terraform/environments/dev
 
     steps:
       - name: Checkout code
